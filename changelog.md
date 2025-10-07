@@ -6,3 +6,6 @@
 #0.1.1
 #correcao de conteudo
 #correcao de resumo
+
+#0.1.2
+*correcao de titulo
